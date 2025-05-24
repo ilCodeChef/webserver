@@ -1,4 +1,3 @@
-# UNDER CONSTRUCTION
 # Webserv
 Webserv is a virtual webserver coded in C++. 
 
